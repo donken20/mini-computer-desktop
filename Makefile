@@ -2,7 +2,7 @@
 
 # Default values for variables
 REPO  ?= dorowu/ubuntu-desktop-lxde-vnc
-TAG   ?= latest
+TAG   ?= develop
 # you can choose other base image versions
 IMAGE ?= ubuntu:18.04
 # choose from supported flavors (see available ones in ./flavors/*.yml)
