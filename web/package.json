@@ -1,8 +1,8 @@
 {
-  "name": "novnc2",
+  "name": "mpc",
   "version": "1.0.0",
   "description": "extended novnc",
-  "author": "Doro Wu <fcwu.tw@gmail.com>",
+  "author": "Don Ken <donken.202020@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
